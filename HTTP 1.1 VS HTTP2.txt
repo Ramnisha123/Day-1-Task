@@ -1,0 +1,19 @@
+HTTP ->Hyper Text Transfer Protocol
+    Is the protocol used to trasfer data over the web.
+
+HTTP1.1:
+   // Internet leadscaps was constantly changing with
+ websits becoming more dynamic and heavy.
+    //features like CORS, keep alive(most important one)
+ was introduced in this update.
+    //TCP connection was created intialy it has a single 
+connetion but later it had 6 TCP connection(huge website).
+    //one resouces cannot bee loaded, it blocks all other resources.
+
+HTTP2.0:
+    // Single TCP connection be used.
+    // In which steam was created and its faster, no need to have 
+ multiple TCP connection.
+    // In that no resource blocks any other resource.
+ 
+ 
